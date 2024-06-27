@@ -1,0 +1,17 @@
+.chart-container {
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+}
+.btn {
+  padding: 5px 10px;
+  outline: none;
+  margin-right: 10px;
+  border: 0px solid;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.btn-primary {
+  color: white;
+  background-color: blue;
+}
